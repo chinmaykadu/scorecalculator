@@ -1,0 +1,4 @@
+beautifulsoup4
+
+# Optional: for downloading HTML file from a URL
+# requests
