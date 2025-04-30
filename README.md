@@ -1,6 +1,6 @@
 # Score Calculator
 
-This project contains a Python script to calculate the marks of an exam based on a response sheet from the Objection Raising Portal. The script extracts the candidate's responses and compares them to the correct options, calculating the score accordingly. The script works by parsing an HTML file using the BeautifulSoup library.
+This project contains a Python script to calculate the marks of an exam based on a response sheet from the Objection Raising Portal. The script extracts the candidate's responses and compares them to the correct options, both of which are available in the HTML file of the response sheet, and calculates the score accordingly. The script works by parsing the HTML file using the BeautifulSoup library.
 
 ## Requirements
 
